@@ -1,8 +1,8 @@
 <!-- Slide number: 1 -->
 # Basic timeseries analysis in Pandas
-Stelios Christodoulou
-PyData London
-June 2025
+Stelios Christodoulou  
+PyData London  
+June 2025  
 
 ### Notes:
 
